@@ -27,9 +27,9 @@ CDN: https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js
 
 ## 🌐 Hosting
 This project is hosted on:
-- Netlify
-- Versal
-- GitHub Pages  
+- Netlify https://catfactbymonitor.netlify.app
+- Versal https://catfactbymonitor.vercel.app
+- GitHub Pages  https://anilmonitor.github.io/catfact
 
 
 ## 🚀 How to Run Locally
